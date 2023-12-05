@@ -1,51 +1,55 @@
-# Infotrix-Task_1
+# RealTimeChatApplication
 
 # How to Download and Run in local browser
 ## using GitClone 
-> git clone https://github.com/javid-4962/Infotrix-Task_1.git
-
+```bash
+ git clone https://github.com/javid4962/RealTimeChatApplication.git
+```
 (or)
 
 ## using Download
-Download the zip file from https://github.com/javid-4962/Infotrix-Task_1.git
+Download the zip file from https://github.com/javid4962/RealTimeChatApplication.git
 Unzip the zip file and open in an code editor
 
 ## Installing Dependencies 
 In editors terminal go to "public" directory and install dependencies by running code 
-> npm install
-
+```bash
+ npm install
+```
 (or)
-
-> yarn install
-
+```bash
+ yarn install
+```
 and then change directory to "server" and run same command 
-> npm install
-
+```bash
+ npm install
+```
 (or)
-
-> yarn install
-
+```bash
+yarn install
+```
 ## Start mongoDB server
 Start the mongoDB server
-
-> mongod
-
+```bash
+mongod
+```
 ## Run Local Server
 In "public" directory run the server by command
-> npm start
-
+```bash
+npm start
+```
 (or)
-
-> yarn start
-
+```bash
+yarn start
+```
 In "server" directory run the server by command
-> npm start
-
+```bash
+npm start
+```
 (or)
-
-> yarn start
-
-
+```bash
+yarn start
+```
 ## Login Page
 ![Screenshot from 2023-10-12 18-08-44](https://github.com/javid-4962/Infotrix-Task_1/assets/111061547/edc1c5b6-55d0-428a-92b9-c5c9de589136)
 
